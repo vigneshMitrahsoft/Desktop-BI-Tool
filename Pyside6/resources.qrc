@@ -1,0 +1,21 @@
+<RCC>
+  <qresource>
+    <file>icons/cloud.png</file>
+    <file>icons/home (1).png</file>
+    <file>icons/home (2).png</file>
+    <file>icons/brain (1).png</file>
+    <file>icons/brain.png</file>
+    <file>icons/floppy-disks.png</file>
+    <file>icons/gear.png</file>
+    <file>icons/logout.png</file>
+    <file>icons/signoutsmall1.png</file>
+    <file>icons/cloud-computing.png</file>
+    <file>icons/database.png</file>
+    <file>icons/people.png</file>
+    <file>icons/table.png</file>
+    <file>icons/dashboard.png</file>
+    <file>icons/diagram.png</file>
+    <file>icons/layout.png</file>
+    <file>icons/table-list.png</file>
+  </qresource>
+</RCC>
